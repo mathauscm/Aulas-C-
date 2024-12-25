@@ -1,0 +1,14 @@
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\bin\Debug\net8.0\curso_cs.exe
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\bin\Debug\net8.0\curso_cs.deps.json
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\bin\Debug\net8.0\curso_cs.runtimeconfig.json
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\bin\Debug\net8.0\curso_cs.dll
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\bin\Debug\net8.0\curso_cs.pdb
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\obj\Debug\net8.0\curso_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\obj\Debug\net8.0\curso_cs.AssemblyInfoInputs.cache
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\obj\Debug\net8.0\curso_cs.AssemblyInfo.cs
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\obj\Debug\net8.0\curso_cs.csproj.CoreCompileInputs.cache
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\obj\Debug\net8.0\curso_cs.dll
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\obj\Debug\net8.0\refint\curso_cs.dll
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\obj\Debug\net8.0\curso_cs.pdb
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\obj\Debug\net8.0\curso_cs.genruntimeconfig.cache
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\AULA01VISUALSTUDIO\curso_cs\obj\Debug\net8.0\ref\curso_cs.dll

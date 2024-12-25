@@ -1,0 +1,14 @@
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\bin\Debug\net8.0\AULA02.exe
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\bin\Debug\net8.0\AULA02.deps.json
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\bin\Debug\net8.0\AULA02.runtimeconfig.json
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\bin\Debug\net8.0\AULA02.dll
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\bin\Debug\net8.0\AULA02.pdb
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\obj\Debug\net8.0\AULA02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\obj\Debug\net8.0\AULA02.AssemblyInfoInputs.cache
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\obj\Debug\net8.0\AULA02.AssemblyInfo.cs
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\obj\Debug\net8.0\AULA02.csproj.CoreCompileInputs.cache
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\obj\Debug\net8.0\AULA02.dll
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\obj\Debug\net8.0\refint\AULA02.dll
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\obj\Debug\net8.0\AULA02.pdb
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\obj\Debug\net8.0\AULA02.genruntimeconfig.cache
+C:\Users\Mathaus Carvalho\Documents\C#\AULAS\aula02\obj\Debug\net8.0\ref\AULA02.dll
